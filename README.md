@@ -1,8 +1,8 @@
 <html>
 <br><br><br><br><br>
-  <div>
+  <div class="video-container">
 <p align="middle">
-<iframe style="width:100%; height:100%;" src="https://www.youtube.com/embed/JNQVgIGdaW4"
+<iframe src="https://www.youtube.com/embed/JNQVgIGdaW4"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe></p></div><br>
 <h1>moim is back!</h1>
@@ -22,7 +22,10 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
         font-size:28px;
       text-align:center;
     }
-    div{
-    width:100%
+    .video-container{
+    position:relative;padding-bottom:56.25%; padding-top:50px; height:0; overflow:hidden;
+    }
+    .video-container iframe,.video-container object,.video-container embed{
+    position:absolute;top:0;left:0;width:100%;height:90%
     }
     </style>
