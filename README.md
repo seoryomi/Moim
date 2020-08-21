@@ -6,7 +6,7 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 allowfullscreen></iframe></p><br>
 <h1>moim is back!</h1>
   <h2>"Weeked"</h2>
-  <h3><a href="https://www.instagram.com/m0im_official/" target="_blank title="m0im_official">27th August 2020</h3>
+  <h3><a href="https://www.instagram.com/m0im_official/" target="_blank" title="m0im_official">27th August 2020</h3>
   <style>
     h1{
       color:green;
