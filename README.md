@@ -1,9 +1,10 @@
 <html>
 <br><br><br><br><br>
+  <div>
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JNQVgIGdaW4"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe></p><br>
+        allowfullscreen></iframe></p></div><br>
 <h1>moim is back!</h1>
   <h2>"Weeked"</h2>
   <h3><a href="https://www.instagram.com/m0im_official/" target="_blank" title="m0im_official">27th August 2020
@@ -26,5 +27,8 @@ allowfullscreen></iframe></p><br>
       border: none;
       height: 100vh;
       width: 100vw;
+    }
+    div{
+    width:100%
     }
     </style>
