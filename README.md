@@ -21,4 +21,10 @@ allowfullscreen></iframe></p><br>
         font-size:28px;
       text-align:center;
     }
+     .inframe100{
+      display: block;
+      border: none;
+      height: 100vh;
+      width: 100vw;
+    }
     </style>
