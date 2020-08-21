@@ -22,12 +22,6 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
         font-size:28px;
       text-align:center;
     }
-     .inframe100{
-      display: block;
-      border: none;
-      height: 100vh;
-      width: 100vw;
-    }
     div{
     width:100%
     }
