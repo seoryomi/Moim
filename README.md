@@ -2,7 +2,7 @@
 <br><br><br><br><br>
   <div>
 <p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNQVgIGdaW4"
+<iframe src="https://www.youtube.com/embed/JNQVgIGdaW4"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe></p></div><br>
 <h1>moim is back!</h1>
