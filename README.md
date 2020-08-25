@@ -30,7 +30,7 @@ function aaa() {
 }
 </script>
 <h1> ♥LUCKY YOU, LUCKY ME♥</h1>
-<h2> 수리수리 마수리, 나와라 로또 번호 </h2>
+<h2> 수리수리 마수리, 연금공주의 나와라 로또 번호 </h2>
 <input id="button1" type="button" onclick="aaa()" value="CLICK!" style="width:300px;height:50px;font-size:30px;">
 <br/><br/>
 <div id="ddd" style="font-size:30px;border:1px solid;width:300px;height:50px;text-align:center;padding:10px;"></div>
