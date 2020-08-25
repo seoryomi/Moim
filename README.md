@@ -29,3 +29,5 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
     position:absolute;top:0;left:0;width:100%;height:90%
     }
     </style>
+    <br><br>
+      <input type="button" value="Moim 더 알아보기" onclick="alert('안알랴줌')">
