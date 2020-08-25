@@ -6,6 +6,9 @@
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe></p></div><br>
 <h1>moim is back!</h1>
+    <br>
+      <input type="button" value="Moim 더 알아보기" onclick="alert('안알랴줌')">
+  <br>
   <h2>"Weeked"</h2>
   <h3><a href="https://www.instagram.com/m0im_official/" target="_blank" title="m0im_official">27th August 2020
   <style>
@@ -29,5 +32,4 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
     position:absolute;top:0;left:0;width:100%;height:90%
     }
     </style>
-    <br><br>
-      <input type="button" value="Moim 더 알아보기" onclick="alert('안알랴줌')">
+  
