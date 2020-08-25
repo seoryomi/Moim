@@ -20,6 +20,6 @@
   <br>
   <input type="button" value="퇴근하고 싶을 때 누르는 버튼" onclick="alert('집에 가도록 하세요')">
     <br>
-  <h2> 대리님 집에 가고 싶으시면 위 버튼을 누르세요</h2>
+  <h2> 집에 가고 싶으시면 위 버튼을 누르세요</h2>
 </body>
 </html>
