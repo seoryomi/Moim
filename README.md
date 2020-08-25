@@ -1,19 +1,14 @@
-<!doctype html>
 <html>
 <head>
   <title> Going Home </title>
   <meta charset="utf-8">
   <style>
-    a {
-      color:black;
-      text-decoration:none;
-    }
     h1 {
       font-size:50px;
       text-align:center;
       border-bottom:5px solid black;
       padding:10px;
-    h2, p {
+    h2 {
       font-size:20px;
       text-align:center;
       color:purple;
