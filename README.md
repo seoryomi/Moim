@@ -1,6 +1,6 @@
 <html>
       <br>
-      <input type="button" value="Moim 더 알아보기" onclick="alert('안알랴줌')">
+      <input type="button" value="성함이 박기준이거나 박순애이신 분만 누르시오" onclick="alert('초땅이가 너무 좋아한다고 전해달래요!')">
   <br>
 <br><br><br><br><br>
   <div class="video-container">
