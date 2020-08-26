@@ -33,16 +33,27 @@ function aaa() {
 <br/><br/>
 <div id="ddd" style="font-size:30px;border:1px solid;width:300px;height:50px;text-align:center;padding:10px;"></div>
 	<br><br><br><br><br>
-<h1> 집에 가고 싶은가요, 휴먼? </h1>
+	<h1> 지금 롯데캐슬에 갇혀있나요, 휴먼? </h1>
 	<input id="night_day" type="button" value="집에 가고 싶을 때 누르는 버튼" onclick="
 		if(document.querySelector('#night_day').value === '집에 가고 싶을 때 누르는 버튼'){
 		document.querySelector('body').style.backgroundColor = 'black';
 		document.querySelector('body').style.color = 'red';
-		document.querySelector('#night_day').value = '안돼 다시 돌아가';
+		document.querySelector('#night_day').value = '안돼 넌 이미 갇혔다';
 		} else {
 		document.querySelector('body').style.backgroundColor = 'white';
 		document.querySelector('body').style.color = 'black';
 		document.querySelector('#night_day').value = '집에 가고 싶을 때 누르는 버튼';
 	}
 		">
+    <input id="설거지" type="button" value="다섯시가 넘었다면 클릭해도 좋다" onclick="
+      if(document.querySelector('#설거지').value === '다섯시가 넘었다면 클릭해도 좋다'){
+      document.querySelector('body').style.backgroundColor = 'pink';
+      document.querySelector('body').style.color = 'blue';
+      document.querySelector('#설거지').value = '설거지를 시작해라 휴먼';
+      } else {
+      document.querySelector('body').style.backgroundColor = 'white';
+      document.querySelector('body').style.color = 'black';
+      document.querySelector('#설거지').value = '다섯시가 넘었다면 클릭해도 좋다';
+    }
+      ">
 </html>
