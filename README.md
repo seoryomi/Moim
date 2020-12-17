@@ -33,7 +33,7 @@ function aaa() {
 <br/><br/>
 <div id="ddd" style="font-size:30px;border:1px solid;width:300px;height:50px;text-align:center;padding:10px;"></div>
 	<br><br>
-<h3> <경고> 위 번호로 당첨시, 세전 당첨금에서 수수료 40% 가 자동 차감됩니다 </h3>
+<h3> 경고! 위 번호로 당첨시, 세전 당첨금에서 수수료 40% 가 자동 차감됩니다 </h3>
 	<style>
 		h3{
 		color:red;
@@ -62,5 +62,4 @@ function aaa() {
       document.querySelector('body').style.color = 'black';
       document.querySelector('#샤따').value = '다섯시가 넘었다면 클릭해도 좋다';
     }
-      ">
-</html>
+      "> </html>
