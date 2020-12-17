@@ -52,14 +52,14 @@ function aaa() {
 		document.querySelector('#night_day').value = '집에 가고 싶을 때 누르는 버튼';
 	}
 		">
-    <input id="샤따" type="button" value="다섯시가 넘었다면 클릭해도 좋다" onclick="
-      if(document.querySelector('#샤따').value === '다섯시가 넘었다면 클릭해도 좋다'){
+    <input id="shutdown" type="button" value="5시가 지났다면 누르세요" onclick="
+      if(document.querySelector('#shutdown').value === '5시가 지났다면 누르세요'){
       document.querySelector('body').style.backgroundColor = 'yellow';
       document.querySelector('body').style.color = 'navy';
-      document.querySelector('#샤따').value = '업무 샤따를 내려주세요';								     ';
+      document.querySelector('#shutdown').value = '업무 샤따를 내려주세요';								     ';
       } else {
       document.querySelector('body').style.backgroundColor = 'white';
       document.querySelector('body').style.color = 'black';
-      document.querySelector('#샤따').value = '다섯시가 넘었다면 클릭해도 좋다';
+      document.querySelector('#shutdown').value = '5시가 지났다면 누르세요';
     }
       "> </html>
