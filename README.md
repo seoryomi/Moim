@@ -54,7 +54,7 @@ function aaa() {
 		">
     <input id="shutdown" type="button" value="5시가 지났다면 누르세요" onclick="
       		if(document.querySelector('#shutdown').value === '5시가 지났다면 누르세요'){
-      		document.querySelector('body').style.backgroundColor = 'yellow';
+      		document.querySelector('body').style.backgroundColor = '';
       		document.querySelector('body').style.color = 'navy';
       		document.querySelector('#shutdown').value = '업무 샤따를 내려주세요';								     ';
       		} else {
