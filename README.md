@@ -32,7 +32,9 @@ function aaa() {
 <input id="button1" type="button" onclick="aaa()" value="CLICK!" style="width:300px;height:50px;font-size:30px;">
 <br/><br/>
 <div id="ddd" style="font-size:30px;border:1px solid;width:300px;height:50px;text-align:center;padding:10px;"></div>
-	<br><br><br><br><br>
+	<br><br>
+<h3> 위 번호로 당첨시, 세전 당첨금에서 수수료 40% 가 자동 차감됩니다</h3>
+	<br><br><br>
 	<h1> 지금 롯데캐슬에 갇혀있나요, 인재여? </h1>
 	<input id="night_day" type="button" value="집에 가고 싶을 때 누르는 버튼" onclick="
 		if(document.querySelector('#night_day').value === '집에 가고 싶을 때 누르는 버튼'){
