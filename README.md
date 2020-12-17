@@ -33,7 +33,11 @@ function aaa() {
 <br/><br/>
 <div id="ddd" style="font-size:30px;border:1px solid;width:300px;height:50px;text-align:center;padding:10px;"></div>
 	<br><br>
-<h3> 위 번호로 당첨시, 세전 당첨금에서 수수료 40% 가 자동 차감됩니다</h3>
+<h3> <경고> 위 번호로 당첨시, 세전 당첨금에서 수수료 40% 가 자동 차감됩니다</h3>
+	<style>
+		h3{
+		color:red;
+		}
 	<br><br><br>
 	<h1> 지금 롯데캐슬에 갇혀있나요, 인재여? </h1>
 	<input id="night_day" type="button" value="집에 가고 싶을 때 누르는 버튼" onclick="
