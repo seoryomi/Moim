@@ -49,8 +49,7 @@ function aaa() {
       if(document.querySelector('#샤따').value === '다섯시가 넘었다면 클릭해도 좋다'){
       document.querySelector('body').style.backgroundColor = 'yellow';
       document.querySelector('body').style.color = 'navy';
-      document.querySelector('#샤따').value = '업무 샤따를 내려주세요
-								     ';
+      document.querySelector('#샤따').value = '업무 샤따를 내려주세요';								     ';
       } else {
       document.querySelector('body').style.backgroundColor = 'white';
       document.querySelector('body').style.color = 'black';
