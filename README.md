@@ -38,6 +38,7 @@ function aaa() {
 		h3{
 		color:red;
 		}
+	</style>
 	<br><br><br>
 	<h1> 지금 롯데캐슬에 갇혀있나요, 인재여? </h1>
 	<input id="night_day" type="button" value="집에 가고 싶을 때 누르는 버튼" onclick="
